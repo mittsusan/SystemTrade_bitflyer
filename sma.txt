@@ -1,0 +1,1 @@
+* * * * * /usr/local/bin/python3 ./sma.py >>./exec.log 2>>./exec_error.log
