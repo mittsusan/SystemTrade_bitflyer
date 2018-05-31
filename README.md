@@ -11,7 +11,7 @@ pythonの基礎知識はある程度必要です。
 
 ### 1分間隔のSMA15,SMA50を使ったプログラムでの例
 まず、最初に  
-```git@github.com:mittsusan/systemtrade_pybitflyer.git ```  
+```git@github.com:mittsusan/SystemTrade_bitflyer.git```  
 をして、ファイルを入手してください。  
 
 そして  
